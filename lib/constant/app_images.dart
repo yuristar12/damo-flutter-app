@@ -1,0 +1,31 @@
+class AppImages {
+  static const String GUIDE_1 = "images/guide_1.png";
+  static const String GUIDE_2 = "images/guide_2.png";
+  static const String GUIDE_3 = "images/guide_3.png";
+  static const String NOT_FIND_PICTURE = "images/404.png";
+  static const String DEFAULT_PICTURE = "images/default.png";
+  static const String ICON_SETTING = "images/icon_setting.png";
+  static const String NO_DATA = "images/no_data.png";
+  static const String ARROW_RIGHT = "images/arrow_right.png";
+  static const String COUPON = "images/coupon.png";
+  static const String CLOSE = "images/close.png";
+  static const String BG_COUPON = "images/bg_coupon.png";
+  static const String TO_BE_PAID = "images/icon_to_be_paid.png";
+  static const String RECEIVED = "images/icon_to_be_received.png";
+  static const String TO_BE_DELIVERED = "images/icon_to_be_delivered.png";
+  static const String TO_BE_EVALUATED = "images/icon_to_be_evaluated.png";
+  static const String RETURN_GOOD = "images/icon_return_good.png";
+  static const String LOCATION = "images/icon_location.png";
+  static const String ABOUT_US = "images/icon_about_us.png";
+  static const String HELP_CENTER = "images/icon_help.png";
+  static const String INQUIRY = "images/icon_inquiry.png";
+  static const String WISHLIST = "images/icon_wishlist.png";
+  static const String SUCCESS = "images/success.png";
+  static const String ORDER_STATUS = "images/icon_order_status.png";
+  static const String ORDER_LOCATION = "images/icon_detail_location.png";
+  static const String NETWORK_ERROR = "images/network_error.png";
+  static const String ICON_PLAY = "images/icon_play.png";
+  static const String DELETE_ACCOUNT = "images/icon_delete_account.png";
+  static const String ICON_STORE = "images/icon_store.png";
+  static const String BE_SUPPLIER = "images/icon_supplier.png";
+}

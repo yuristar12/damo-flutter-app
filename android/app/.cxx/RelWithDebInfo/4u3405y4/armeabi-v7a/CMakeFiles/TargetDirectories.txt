@@ -1,0 +1,2 @@
+/Users/yuri/Desktop/damo-flutter-app-master/android/app/.cxx/RelWithDebInfo/4u3405y4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/yuri/Desktop/damo-flutter-app-master/android/app/.cxx/RelWithDebInfo/4u3405y4/armeabi-v7a/CMakeFiles/edit_cache.dir
